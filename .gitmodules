@@ -1,0 +1,4 @@
+[submodule "https://github.com/SparksTheFolf/frcQueue24"]
+	url = ../frcQueue24
+[submodule "https://github.com/SparksTheFolf/frcQueue23"]
+	url = ../frcQueue23
